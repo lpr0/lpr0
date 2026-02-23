@@ -1,10 +1,10 @@
 ## Lucas Pereira Rubens
 **lpr6696@gmail.com**
 
-Estudante do IFSP são carlos
+Student at IFSP são carlos
 
-Adoro pensar
+I really like to think
 
-Nível de Inglêss: intermediário
+English level: B1
 
-Noções de Python, Javascript, Java, C/C++, Lua, SQL
+I know a little of Python, Javascript, Java, C/C++, Lua, SQL
